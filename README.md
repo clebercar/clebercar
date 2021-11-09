@@ -1,6 +1,6 @@
 # ⚡ Cleber Carvalho
 
-**Software Engineer** [@warren](http://github.com/warrenbrasil).
+**Software Engineer**.
 
 - 🌱 I’m currently learning about more software architecture and cloud computing.
 - 👯 I’m looking to collaborate on any project that helps people.
