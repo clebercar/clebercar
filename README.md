@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about more software architecture and cloud computing.
 - 👯 I’m looking to collaborate on any project that helps people.
-- 💬 Ask me about Node, Typescript and React/Vue JS.
+- 💬 Ask me about Node, PHP, Typescript and React/Vue JS.
 
 Would you like to find me?
 
